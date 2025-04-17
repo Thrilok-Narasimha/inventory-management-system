@@ -1,0 +1,2 @@
+# No external dependencies are required for the basic functionality
+# You may add packages here if you extend the project

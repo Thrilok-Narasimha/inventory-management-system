@@ -1,0 +1,67 @@
+{
+    "1001": {
+        "Name": "Dairy Milk-Silk",
+        "Price": 175,
+        "Quantity": 3973
+    },
+    "1002": {
+        "Name": "Snickers",
+        "Price": 30,
+        "Quantity": 2384
+    },
+    "1003": {
+        "Name": "Kinder Joy",
+        "Price": 70,
+        "Quantity": 4992
+    },
+    "1004": {
+        "Name": "Choclate Cake",
+        "Price": 550,
+        "Quantity": 6996
+    },
+    "1005": {
+        "Name": "Black Forest",
+        "Price": 650,
+        "Quantity": 1494
+    },
+    "1006": {
+        "Name": "Galaxy",
+        "Price": 175,
+        "Quantity": 4000
+    },
+    "1007": {
+        "Name": "Temptation",
+        "Price": 175,
+        "Quantity": 3989
+    },
+    "1008": {
+        "Name": "Dark Fantacy",
+        "Price": 100,
+        "Quantity": 3996
+    },
+    "1009": {
+        "Name": "Hershes Kisses",
+        "Price": 150,
+        "Quantity": 3993
+    },
+    "1010": {
+        "Name": "Pringles",
+        "Price": 175,
+        "Quantity": 4000
+    },
+    "1011": {
+        "Name": "Cheetos",
+        "Price": 75,
+        "Quantity": 4000
+    },
+    "1012": {
+        "Name": "Doritos",
+        "Price": 75,
+        "Quantity": 4000
+    },
+    "1013": {
+        "Name": "Blue Wine",
+        "Price": 300,
+        "Quantity": 3993
+    }
+}
